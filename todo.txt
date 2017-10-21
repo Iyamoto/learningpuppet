@@ -1,0 +1,7 @@
+Puppet Notebook
+
+sudo yum repolist
+
+facter
+
+puppet apply /vagrant/manifests/helloworld.pp
